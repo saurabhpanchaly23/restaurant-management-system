@@ -1,0 +1,10 @@
+1,Spaghetti Bolognese,12.99,50
+2,Caesar Salad,8.49,30
+3,Grilled Chicken Sandwich,10.99,40
+4,Margherita Pizza,14.99,25
+5,Chocolate Brownie Sundae,6.99,20
+6,Iced Caramel Latte,4.49,45
+7,Classic Cheeseburger,11.99,35
+8,Garden Vegetable Wrap,9.99,30
+9,Strawberry Cheesecake Shake,7.99,25
+10,Chicken Alfredo Pasta,13.49,28
